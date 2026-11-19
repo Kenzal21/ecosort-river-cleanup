@@ -18,8 +18,5 @@ Plastic pollution threatens freshwater ecosystems across Southeast Asia. **EcoSo
 * **Move Right:** `D` or `Right Arrow`
 * **Objective:** Collect floating trash (`🧴`, `🥤`, `🛍️`) for **+10 points**. Avoid hitting river fish (`🐟`) or letting trash slip past your boat, which costs a life.
 
-## 🚀 Running Locally
-No build tools or dependencies required. Simply clone the repository and open `index.html` in any modern web browser:
-```bash
-git clone [https://github.com/YOUR-USERNAME/ecosort-river-cleanup.git](https://github.com/YOUR-USERNAME/ecosort-river-cleanup.git)
-cd ecosort-river-cleanup
+How to play?
+just download the index file and double click it lol
